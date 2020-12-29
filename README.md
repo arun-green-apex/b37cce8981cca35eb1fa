@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.6.3
 
-* System dependencies
+* Database creation - postgresql
 
-* Configuration
+* run bundle install
 
-* Database creation
+* run rake db:create
 
-* Database initialization
+* run rake db:migrate
 
-* How to run the test suite
+* run rake db:seed
 
-* Services (job queues, cache servers, search engines, etc.)
+* run rails s
 
-* Deployment instructions
-
-* ...
+* postmen collection link = https://documenter.getpostman.com/view/13964049/TVsyfkVY
